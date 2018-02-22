@@ -49,7 +49,7 @@
       strings: {
         prefixAgo: null,
         prefixFromNow: null,
-        suffixAgo: "منذ",
+        suffixAgo: "",
         suffixFromNow: "الآن",
         inPast: 'قبل لحظات',
         seconds: "أقل من دقيقة",
